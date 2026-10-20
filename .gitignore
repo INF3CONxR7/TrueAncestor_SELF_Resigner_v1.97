@@ -1,0 +1,17 @@
+# Dossiers de travail : conserver uniquement leur structure.
+/raps/*
+!/raps/.gitkeep
+/self/*
+!/self/.gitkeep
+/temp/*
+!/temp/.gitkeep
+
+# Fichiers personnels ou generes lors de l'utilisation.
+*.rap
+*.rif
+/EBOOT.BIN
+/EBOOT.ELF
+
+# Donnees de cles conservees localement en attente d'autorisation de publication.
+/data/keys
+/tool/klics.txt

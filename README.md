@@ -21,6 +21,8 @@
 
 ## Utilisation
 
+Cette copie du dépôt est incomplète : les fichiers `data/keys` et `tool/klics.txt`, qui contiennent des données de clés, ne sont pas inclus. Certaines opérations nécessitent ces fichiers, à obtenir auprès d'une source autorisée.
+
 1. Téléchargez une copie de l'outil depuis une source autorisée et extrayez son archive sur votre PC Windows.
 2. Conservez une sauvegarde du fichier PS3 original avant toute opération.
 3. Lancez l'utilitaire et suivez les options proposées pour le type de fichier à traiter.
