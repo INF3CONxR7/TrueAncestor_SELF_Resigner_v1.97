@@ -11,7 +11,3 @@
 *.rif
 /EBOOT.BIN
 /EBOOT.ELF
-
-# Donnees de cles conservees localement en attente d'autorisation de publication.
-/data/keys
-/tool/klics.txt
